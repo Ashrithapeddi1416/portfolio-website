@@ -2,7 +2,7 @@
 <h2>what it is</h2>
 <p>This is a  responsive frontend portfolio project of a fictional character Hermione Jean Granger </p>
 <h2>Tools used</h2>
-<ul><li><strong>React</strong>-Componnent-based architecture</li>
+<ul><li><strong>React</strong>-Component-based architecture</li>
 <li><strong>Vite</strong>-Fast development environment </li>
 <li><strong>Tailwind css</strong>-Responsive styling</li>
 <li><strong>Git & Github</strong>-Version control</li></ul>
