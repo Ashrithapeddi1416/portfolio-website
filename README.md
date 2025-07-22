@@ -1,12 +1,15 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h1><strong>Responsive Frontend project</strong> </h1>
+<h2>what it is</h2>
+<p>This is a  responsive frontend portfolio project of a fictional character Hermione Jean Granger </p>
+<h2>Tools used</h2>
+<ul><li><strong>React</strong>-Componnent-based architecture</li>
+<li><strong>Vite</strong>-Fast development environment </li>
+<li><strong>Tailwind css</strong>-Responsive styling</li>
+<li><strong>Git & Github</strong>-Version control</li></ul>
+<h2>What i learned</h2>
+<ul><li>How to setup react project using vite </li>
+<li>Designing <strong>Responsive</strong> layouts with Tailwind CSS</li>
+<li>Uisng Git for commits and pushing code to Github</li>
+<li>Successfully deploying a live Responsive frontend project</li></ul>
+<h2>Live Website Demo</h2>
+<p><a href="https://ashrithapeddi1416.github.io/portfolio-website/">Click here to see Hermione's porfolio</a></p>
