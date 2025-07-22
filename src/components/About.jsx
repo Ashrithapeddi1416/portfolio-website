@@ -8,15 +8,15 @@ function About() {
         Rewriting the rules with logic, leadership, and a little magic...
       </div>
 
-      <div className="flex flex-row items-center gap-8">
+      <div className="flex flex-col md:flex-row items-center gap-8">
        
-        <div
-          style={{
-            backgroundImage:
-              "url(/main/hermione.jpeg)",
-          }}
-          className="w-1/2 h-[550px] bg-cover bg-center rounded-2xl shadow-lg"
-        ></div>
+       <div
+  style={{
+    backgroundImage:
+      "url(https://lovelace-media.imgix.net/uploads/749/4414a240-42da-0134-3e14-0ad17316e277.jpg)",
+  }}
+  className="w-full md:w-1/2 h-64 md:h-[550px] bg-cover bg-center rounded-2xl shadow-lg"
+></div>
 
         <div className="w-1/2 text-slate-900 text-lg leading-relaxed">
         <h2 className="text-5xl font-extrabold">Minister of Magic</h2>
